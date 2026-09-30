@@ -31,6 +31,7 @@ Freelance Software Engineer, living in Germany, 71522 Backnang (near Stuttgart).
 ### Introduction
 
 Hello, my name is Paul, born in 1984. I am a passionate Software Engineer. In the last years my technical focus was .NET / ASP.NET, developing web applications and APIs on top of databases.
+
 I don't shy away from any challenge and am looking forward to interesting projects, new technologies and doing great work together.
 
 ## Work experience
