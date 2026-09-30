@@ -37,7 +37,7 @@ Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante 
 ### `2023-01 - heute  `
 **Freiberuflicher Software-Entwickler**
 
-Fokus Microsoft .NET mit ASP.NET und Entity-Framework; Schnittstellen-Entwicklung (REST, OData, SOAP, Offline/Dateibasiert) und Datenbank-Anbindung und -Entwicklung (MSSQL und Oracle SQL und PL/SQL).
+Fokus Microsoft .NET mit ASP.NET und Entity-Framework; Schnittstellen-Entwicklung (REST, OData, SOAP, Offline/Dateibasiert) und Datenbank-Anbindung und -Entwicklung (MSSQL und Oracle SQL mit PL/SQL).
 
 ### `2020-01 - 2022-12`
 **Softwareentwicklung nebenberuflich**
