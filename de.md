@@ -30,6 +30,7 @@ Freiberuflicher Software-Entwickler, wohnhaft in 71522 Backnang (Großraum Stutt
 ### Vorstellung
 
 Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein technischer Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung, Schnittstellen und Datenbankanbindung.
+
 Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante Projekte, neue Technologien und eine gute Zusammenarbeit.
 
 ## Berufliche&nbsp;Erfahrung
