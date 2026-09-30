@@ -72,7 +72,7 @@ Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixin
 : Konzeption, Entwicklung von Anpassungen und Betreuung / Wartung von Kundenprojekten
 : (C#, JavaScript, MSSQL)
 
-### `10.2011 – 11.2015`
+### `2011-10 – 2015-11`
 **Softwareentwickler - iSILOG GmbH, später EDAG Production Solutions GmbH & Co. KG, Baden-Baden**
 
 2013-2015
