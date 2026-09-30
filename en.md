@@ -35,7 +35,7 @@ I don't shy away from any challenge and am looking forward to interesting projec
 
 ## Work experience
 
-### `2023-01 - today&nbsp;&nbsp;`
+### `2023-01 - today  `
 **Freelance Software Engineer**
 
 Mainly Microsoft .NET with ASP.NET and Entity-Framework; developing interfaces (REST, OData, SOAP, offline/file based) and database development (MSSQL and Oracle SQL with PL/SQL).
