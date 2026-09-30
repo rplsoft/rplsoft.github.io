@@ -29,19 +29,23 @@ Freiberuflicher Software-Entwickler, wohnhaft in 71522 Backnang (Großraum Stutt
 
 ### Vorstellung
 
-Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein technischer Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung und Schnittstellen. Angebunden waren dabei auch immer verschiedene Datenbanken (u.a. MSSQL, SQLite, Oracle) und Frontends (TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS).
-
+Hallo, mein Name ist Paul, geboren 1984. Ich bin leidenschaftlicher Software-Entwickler. In den letzten Jahren lag mein technischer Fokus hauptsächlich auf .NET / ASP.NET mit Schwerpunkt Web-Entwicklung, Schnittstellen und Datenbankanbindung.
 Grundsätzlich scheue ich keine Herausforderung und freue mich auf interessante Projekte, neue Technologien und eine gute Zusammenarbeit.
 
 ## Berufliche&nbsp;Erfahrung
 
-### `01.2020 - 12.2022`
+### `2023-01 - heute`
+**Freiberuflicher Software-Entwickler**
+
+Fokus Microsoft .NET mit ASP.NET und Entity-Framework; Schnittstellen-Entwicklung (REST, OData, SOAP, Offline/Dateibasiert) und Datenbank-Anbindung und -Entwicklung (MSSQL und Oracle SQL und PL/SQL).
+
+### `2020-01 - 2022-12`
 **Softwareentwicklung nebenberuflich**
 
 Entwicklung einer webbasierten Software zur automatisierten Erstellung und Auswertung von Klausurprüfungen in Papierform\
 (Python, Django, ReactJS, SQLite, Docker)
 
-### `12.2015 - 12.2022`
+### `2015-12 - 2022-12`
 **Softwareentwickler - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
 Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixing, Feature-Konzeption und -Entwicklung, Softwarearchitektur und Schnittstellenentwurf um das Zusammenspiel der verschiedenen Komponenten sicherzustellen. Die Qualität der Umsetzungen wurde über Unit-, bzw. Integrationstests sichergestellt (MSTest, NUnit, Selenium). Darüber hinaus, Pflege der Build-Pipeline (TeamCity) und Erstellung von Dokumentationen und Schulungsmaterial.
@@ -95,7 +99,7 @@ Arbeit in einem agilen Team in der Produktentwicklung. Dies beinhaltete Bugfixin
 - Simulationsprojekte mit Plant Simulation
 - Administration IT Infrastruktur
 
-### `10.2008 - 10.2011`
+### `2008-10 - 2011-10`
 **Duales Studium**
 
 - Simulationsprojekte, Neu- und Weiterentwicklung von Bausteinbibliotheken für Siemens Plant Simulation (Materialflusssimulation)
@@ -104,7 +108,7 @@ Xcelgo Experior (Virtuelle Inbetriebnahme)
 
 ## Ausbildung
 
-### `10.2008 - 10.2011`
+### `2008-10 - 2011-10`
 **DHBW Karlsruhe**
 
 Studiengang
@@ -118,12 +122,12 @@ Abschluss
 : Bachelor of Science (B.Sc.)
 : (Note: 1,8)
 
-### `04.2008 – 10.2008`
+### `2008-04 – 2008-10`
 **Praktikum in Firma iSILOG GmbH, Bühl**
 
 Entwicklung einer Offline-Schnittstelle zwischen Plant Simulation und Cinema4D zur automatischen Animationserstellung auf Basis von Simulationsdaten
 
-### `10.2003 – 04.2008`
+### `2003-10 – 2008-04`
 **Technische Universität Ilmenau**
 
 Informatik, Nebenfach: Automatisierungstechnik
