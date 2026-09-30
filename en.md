@@ -30,19 +30,23 @@ Freelance Software Engineer, living in Germany, 71522 Backnang (near Stuttgart).
 
 ### Introduction
 
-Hello, my name is Paul, born in 1984. I am a passionate Software Engineer. In the last years my main technical focus was .NET / ASP.NET, developing web applications and APIs. Part of this were always different databases (including MSSQL, SQLite, Oracle) and front ends (including TypeScript/JavaScript, ASP.NET, WinForms, KnockoutJS).
-
+Hello, my name is Paul, born in 1984. I am a passionate Software Engineer. In the last years my technical focus was .NET / ASP.NET, developing web applications and APIs on top of databases.
 I don't shy away from any challenge and am looking forward to interesting projects, new technologies and doing great work together.
 
 ## Work experience
 
-### `01.2020 - 12.2022`
+### `2023-01 - today`
+**Freelance Software Engineer**
+
+Mainly Microsoft .NET with ASP.NET and Entity-Framework; developing interfaces (REST, OData, SOAP, offline/file based) and database development (MSSQL and Oracle SQL with PL/SQL).
+
+### `2020-01 - 2022-12`
 **Software development (part time)**
 
 Developing a web based software to automate creation and analysis of written exams\
 (Python, Django, ReactJS, SQLite, Docker)
 
-### `12.2015 - 12.2022`
+### `2015-12 - 2022-12`
 **Software Developer - L-mobile solutions GmbH & Co. KG, Sulzbach an der Murr**
 
 Working in an agile team in product development. This included bug fixing, feature development and conception, software architecture and interface design to ensure working interaction of the various components. The quality of the implementations was ensured by unit and integration tests (MSTest, NUnit, Selenium). Additionally, maintaining the build pipeline (TeamCity) and creating documentation and training materials.
@@ -69,7 +73,7 @@ Working in an agile team in product development. This included bug fixing, featu
 : Conception, development of customizations and support / maintenance of customer projects
 : (C#, JavaScript, MSSQL)
 
-### `10.2011 – 11.2015`
+### `2011-11 – 2015-11`
 **Software Developer - iSILOG GmbH, later EDAG Production Solutions GmbH & Co. KG, Baden-Baden**
 
 2013-2015
@@ -96,7 +100,7 @@ Working in an agile team in product development. This included bug fixing, featu
 - Simulation projects with Plant Simulation
 - Administration IT infrastructure
 
-### `10.2008 - 10.2011`
+### `2008-10 - 2011-10`
 **Dual studies**
 
 - Simulation projects, new and further development of module libraries for Siemens Plant Simulation (material flow simulation)
@@ -104,7 +108,7 @@ Working in an agile team in product development. This included bug fixing, featu
 
 ## Education
 
-### `10.2008 - 10.2011`
+### `2008-10 - 2011-10`
 **DHBW Karlsruhe**
 
 Study course
@@ -119,12 +123,12 @@ Degree
 : Bachelor of Science (B.Sc.)
 : (Mark: 1.8)
 
-### `04.2008 – 10.2008`
+### `2008-04 – 2008-10`
 **Internship in company iSILOG GmbH, Bühl**
 
 Development of an offline interface between Plant Simulation and Cinema4D for automatic animation creation based on simulation data
 
-### `10.2003 – 04.2008`
+### `2003-10 – 2008-04`
 **Technische Universität Ilmenau**
 
 Computer Science, minor: Automation technology
